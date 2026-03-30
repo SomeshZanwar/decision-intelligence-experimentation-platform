@@ -23,6 +23,15 @@ This project solves that gap by building an end-to-end experimentation decision 
 
 ---
 
+## What This Project Shows
+
+- Built end-to-end experimentation system (data → decision)
+- Designed dbt models for analytics and metrics layer
+- Implemented statistical testing (p-value, lift, decision logic)
+- Generated segment-level insights for product decisions
+
+---
+
 ## System Overview
 
 Pipeline:
