@@ -1,0 +1,14 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+scipy
+statsmodels
+matplotlib
+plotly
+streamlit
+dbt-core
+dbt-postgres
+python-dotenv
+faker
+jupyter

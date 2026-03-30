@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    database: experiment_db
+    schema: public
+    tables:
+      - name: users
+      - name: experiment_assignments
+      - name: events
+      - name: orders
+      - name: sessions
